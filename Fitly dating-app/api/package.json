@@ -1,0 +1,18 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1",
+    "password-hash": "^1.2.2",
+    "tedious": "^11.0.7"
+  },
+  "devDependencies": {},
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

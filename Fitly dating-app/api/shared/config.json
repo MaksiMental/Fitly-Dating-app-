@@ -1,0 +1,14 @@
+{  
+    "server": "serverfordating.database.windows.net", 
+    "authentication": {
+        "type": "default",
+        "options": {
+            "userName": "stefanovic13@serverfordating", 
+            "password": "Ndd88yud" 
+        }
+    },
+    "options": {
+        "encrypt": true,
+        "database": "stefogcarl"
+    }
+} 
